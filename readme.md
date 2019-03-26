@@ -7,7 +7,7 @@
 
 ### Шпаргалка по горячим кнопкам
 
-[Шпаргалка](http://nicothin.github.io/sublime-text/sublime-text-3-hotkeys.html) по горячим кнопкам Sublime Text 3 для Windows/Linux и OS X. Автономный html-файл с поиском-фильтром.
+[Шпаргалка](https://onelawyer.github.io/sublime-text/index.html) по горячим кнопкам Sublime Text 3 для Windows/Linux и OS X. Автономный html-файл с поиском-фильтром.
 
 
 ### Настройки, оформление, макросы
